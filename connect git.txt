@@ -5,3 +5,7 @@ if (a <= 10) {
 } else {
   console.log("Greater than 10");
 }
+
+if (a<10) {
+
+}
