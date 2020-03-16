@@ -1,0 +1,7 @@
+console.log(123);
+var a = 10;
+if (a < 10) {
+  console.log("Less than 10");
+} else {
+  console.log("Greater than 10");
+}
